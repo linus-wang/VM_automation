@@ -1,0 +1,2 @@
+VM_1.vmx	snapshot_alice
+VM_2.vmx	snapshot_bob
